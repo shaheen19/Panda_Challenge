@@ -1,2 +1,2 @@
-# Panda_HW
+# Panda Challenge
 Assignment4-Panda HW with numpy
